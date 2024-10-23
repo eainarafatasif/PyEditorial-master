@@ -263,4 +263,4 @@ sudo chmod -R 755 /var/www/html/django-unfold/
    sudo systemctl status certbot.timer
    ```
 
-This setup will get your Django project deployed with Nginx, MySQL, and an SSL certificate on Ubuntu.
+This setup will deploy your Django project with Nginx, MySQL, and an SSL certificate on Ubuntu.
